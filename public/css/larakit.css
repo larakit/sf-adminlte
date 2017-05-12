@@ -1,0 +1,16 @@
+.pointer {
+    cursor : pointer;
+}
+
+.mr10 {
+    margin-right : 10px;
+}
+
+.label {
+    font-weight : 600;
+}
+
+.label-times {
+    border : 1px solid #3c8dbc;
+    color  : #3c8dbc;
+}
