@@ -6,4 +6,4 @@
     ->cssPackage('css/AdminLTE.min.css')
     ->cssPackage('css/_all-skins.min.css')
     ->cssPackage('css/larakit.css');
-\Larakit\Boot::register_view_path(__DIR__ . '/views', 'sf-adminlte');
+\Larakit\Boot::register_boot(__DIR__ . '/boot');
