@@ -6,6 +6,7 @@
     "require": {
         "larakit/sf-bootstrap": "*",
         "larakit/sf-font-awesome": "*",
+        "larakit/sf-larakit-js": "*",
         "larakit/sf-font-roboto": "*"
     },
     "autoload": {
