@@ -3,6 +3,7 @@
     ->setSourceDir('public')
     ->usePackage('larakit/sf-bootstrap')
     ->usePackage('larakit/sf-font-awesome')
+    ->usePackage('larakit/sf-font-roboto')
     ->cssPackage('css/AdminLTE.min.css')
     ->cssPackage('css/_all-skins.min.css')
     ->cssPackage('css/larakit.css');

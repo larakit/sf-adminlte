@@ -15,12 +15,16 @@
     color  : #3c8dbc;
 }
 
-.main-header .navbar .nav>li>a>.label {
-    position: absolute;
-    top: 6px;
-    right: 4px;
-    text-align: center;
-    font-size: 9px;
-    padding: 2px 3px;
-    line-height: .9;
+.main-header .navbar .nav > li > a > .label {
+    position    : absolute;
+    top         : 6px;
+    right       : 4px;
+    text-align  : center;
+    font-size   : 9px;
+    padding     : 2px 3px;
+    line-height : .9;
+}
+
+* {
+    font-family : 'Roboto', sans-serif;
 }
