@@ -31,3 +31,6 @@
 b, strong {
     font-weight: 400;
 }
+.content-wrapper{
+    min-height: calc(100vh - 50px);
+}
