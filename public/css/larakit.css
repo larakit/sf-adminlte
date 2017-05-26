@@ -25,12 +25,15 @@
     line-height : .9;
 }
 
-* {
-    font-family : 'Roboto', sans-serif;
+body {
+    font-family : 'Open Sans', sans-serif;
 }
+
 b, strong {
-    font-weight: 400;
+    font-weight : 400;
 }
-.content-wrapper{
-    min-height: calc(100vh - 50px);
+
+.content-wrapper {
+    min-height : calc(100vh - 100px);
 }
+

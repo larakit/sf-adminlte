@@ -5,8 +5,7 @@
     "version": "4.6.2",
     "require": {
         "larakit/sf-bootstrap": "*",
-        "larakit/sf-font-awesome": "*",
-        "larakit/sf-font-roboto": "*"
+        "larakit/sf-font-awesome": "*"
     },
     "autoload": {
         "files": [
