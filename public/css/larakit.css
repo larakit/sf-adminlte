@@ -27,6 +27,7 @@
 
 body {
     font-family : 'Open Sans', sans-serif;
+    font-size: 14px;
 }
 
 b, strong {
@@ -39,4 +40,7 @@ b, strong {
 
 .small-box .icon {
     top : 0px;
+}
+table{
+    font-size: 14px;
 }
