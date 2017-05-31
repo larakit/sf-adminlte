@@ -30,9 +30,9 @@ body {
     font-size: 14px;
 }
 
-b, strong {
-    font-weight : 400;
-}
+/*b, strong {*/
+    /*font-weight : 400;*/
+/*}*/
 
 .content-wrapper {
     min-height : calc(100vh - 100px);
