@@ -27,11 +27,11 @@
 
 body {
     font-family : 'Open Sans', sans-serif;
-    font-size: 14px;
+    font-size   : 14px;
 }
 
 /*b, strong {*/
-    /*font-weight : 400;*/
+/*font-weight : 400;*/
 /*}*/
 
 .content-wrapper {
@@ -41,6 +41,11 @@ body {
 .small-box .icon {
     top : 0px;
 }
-table{
-    font-size: 14px;
+
+table {
+    font-size : 14px;
+}
+
+.modal-full {
+    width : 90%;
 }
