@@ -49,3 +49,6 @@ table {
 .modal-full {
     width : 90%;
 }
+.checkbox-inline, .radio-inline{
+    margin-left: 10px;
+}
