@@ -57,3 +57,6 @@ table {
 .hide_empty:empty {
     display : none;
 }
+.text-strike {
+    text-decoration : line-through;
+}
