@@ -60,3 +60,6 @@ table {
 .text-strike {
     text-decoration : line-through;
 }
+.control-sidebar-bg, .control-sidebar {
+    width: 325px;
+}
