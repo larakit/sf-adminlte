@@ -63,3 +63,6 @@ table {
 .control-sidebar-bg, .control-sidebar {
     width: 325px;
 }
+.sidebar, .main-sidebar{
+    overflow: scroll;
+}
